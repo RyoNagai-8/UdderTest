@@ -31,10 +31,10 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="a9h-0B-5Vr">
-                                <rect key="frame" x="155" y="609" width="105" height="84"/>
+                                <rect key="frame" x="71" y="609" width="273" height="84"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="60"/>
-                                <state key="normal" title="Test">
+                                <state key="normal" title="TestButton">
                                     <color key="titleColor" systemColor="systemRedColor"/>
                                 </state>
                             </button>
